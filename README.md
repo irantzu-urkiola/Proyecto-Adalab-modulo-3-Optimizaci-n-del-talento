@@ -111,7 +111,7 @@ El proyecto se desarrollará en **2 Sprints**:
 - Beatriz Barberán  
 - Gemma Traguany  
 - Génesis Narea  
-- Irantzu Urkiola  
+- Irantzu Urkiola
 
 ---
 
